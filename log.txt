@@ -1,0 +1,33 @@
+Start: Tues, 14 Apr 2015 09:30:00 -0800
+End: Tues, 14 Apr 2015 12:06:00 -0800
+Tasks: I started out by working on part 1 of the assignment and getting all of the variables and objects to work properly.
+
+Start: Tues, 14 Apr 2015 14:45:00 -0800
+End: Tues, 14 Apr 2015 17:30:00 -0800
+Tasks: In this period I worked on the functions and started working on the design for part 2 of the assignment.
+
+Start: Wed, 15 Apr 2015 10:25:00 -0800
+End: Wed, 15 Apr 2015 12:30:00 -0800
+Tasks: In this period I worked on the basic layout of the page in HTML and started the basic JavaScript functions.
+
+Start: Wed, 15 Apr 2015 14:20:00 -0800
+End: Wed, 15 Apr 2015 17:30:00 -0800
+Tasks: After getting stuck with some AJAX problems, I rewatched some videos and read over the material again.
+
+Start: Thu, 16 Apr 2015 09:30:00 -0800
+End: Thu, 16 Apr 2015 11:30:00 -0800
+Tasks: Worked on functionality of the website after creating the AJAX call(i.e. adding and removing list items)
+
+Start: Thu, 16 Apr 2015 15:15:00 -0800
+End: Thu, 16 Apr 2015 17:05:00 -0800
+Tasks: In this period I worked on getting the language from the response text.  I checked several sources around the web and ended up finding the help I needed from a friend.
+
+Start: Fri, 17 Apr 2015 13:45:00 -0800
+End: Fri, 17 Apr 2015 17:30:00 -0800
+Tasks: Broke my site and had to go back to figure out where I made a mistake.  Computer crashed during this period and I had not made a commit so it took longer than expected to get everything back to where I was.
+
+Start: Sat, 18 Apr 2015 10:45:00 -0800
+End: Sat, 18 Apr 2015 12:30:00 -0800
+Tasks: Worked out small bugs and tried to figure out how to exclude an item from the list if it was already in favorites.  After much time and frustration, I gave up and decided to submit what I have.
+
+
